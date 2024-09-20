@@ -4,3 +4,4 @@ print("ДАЙ ВТОРОЕ ЧИСЛО:")
 y=int(input())
 
 print(x*y)
+print(y)
